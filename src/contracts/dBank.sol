@@ -12,7 +12,7 @@ contract dBank {
   //add events
 
   //pass as constructor argument deployed Token contract
-  constructor() public {
+  constructor() {
     //assign token deployed contract to variable
   }
 
